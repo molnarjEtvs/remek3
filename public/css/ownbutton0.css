@@ -1,0 +1,28 @@
+.ownbutton1 {
+border: none;
+background: url(../img/3.png);
+width: 115px;
+height: 37px;
+text-align: center;
+line-height: 37px;
+font-weight: bold;
+padding: 0 3px 3px 0;
+color: #FFF;
+}
+.ownbutton1:hover {
+background-position: 0 -37px;
+color: #D2D5D7;
+}
+.inaktiv, .inaktiv:hover {
+background-position: 0 -37px;
+color: #19E8D2; 
+}
+
+
+.close1 {
+border: none;
+background: url(../img/close1.png);
+width: 28px;
+height: 27px;
+
+}
